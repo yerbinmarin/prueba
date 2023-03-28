@@ -11,3 +11,5 @@ Este es un repositorio de prueba del curso **GF06004**, [Univerdidad de Costa Ri
 3. Aprender sistema de controles [Git](https://git-scm.com/)
 
 ![](https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&h=1067)
+
+<img src= "https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&h=1067" width="150">
